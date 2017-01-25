@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
-title:  "A Survival Guide to a PhD"
-excerpt: "A collection of tips/tricks for navigating the PhD experience."
-date:   2016-09-07 11:00:00
+title: A Survival Guide to a PhD
+excerpt: A collection of tips/tricks for navigating the PhD experience.
+date: {}
 mathjax: false
+published: false
 ---
 
 
@@ -206,4 +207,4 @@ I can't find the quote anymore but I heard Sam Altman of YC say that there are n
 So at the end of the day it's quite simple. Do good work, communicate it properly, people will notice and good things will happen. Have a fun ride!
 
 <br><br>
-EDIT: [HN discussion link](https://news.ycombinator.com/item?id=12447495). 
+EDIT: [HN discussion link](https://news.ycombinator.com/item?id=12447495).
