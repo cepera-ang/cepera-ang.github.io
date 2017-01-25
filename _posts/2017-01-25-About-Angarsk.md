@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+comments: true
+title:  "Про Ангарск"
+excerpt: "Все подробности -- под катом!"
 ---
 ## Пост про Ангарск
 
