@@ -1,1 +1,19 @@
+# Site settings
+title: Sergey Mushinskiy blog
+email: sergey@mushinskiy.com
+description: "Blog about some hyped things at the moment"
+baseurl: ""
+url: "http://cepera-ang.github.io"
+twitter_username: cepera_ang
+github_username:  cepera-ang
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 theme: jekyll-theme-minimal
